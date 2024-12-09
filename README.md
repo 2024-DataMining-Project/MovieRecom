@@ -1,6 +1,7 @@
 # MovieRecom
 
 Movie Recommendation System: Contents Based &amp; Collaborative Filtering Hybrid 방식
+Using Algorithm: Collaborative Filtering, SVD, KNN, Contents-Based Filtering, Hybrid Filtering
 
 ## Collaborative Filtering : recom_train.py
 
