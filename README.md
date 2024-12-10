@@ -4,6 +4,18 @@ Movie Recommendation System: Contents Based &amp; Collaborative Filtering Hybrid
 
 Using Algorithm: Collaborative Filtering, SVD, KNN, Contents-Based Filtering, Hybrid Filtering
 
+## Crawling
+
+- Imdb top250 movie 영화 데이터 크롤링 : crawling.py
+  - 크롤링 요소
+    1. 영화 제목
+    2. 출시 년도
+    3. Runtime
+    4. 감독
+    5. cast
+    6. 영화 설명
+    7. url
+
 ## Collaborative Filtering : recom_train.py
 
 - recom_train.py: 모델 학습 코드
